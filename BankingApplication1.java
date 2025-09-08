@@ -195,7 +195,8 @@ public class BankingApplication1 {
     }
 
     public static void main(String[] args) {
-        BankingApplication app = new BankingApplication(100);
+        BankingApplication1 app = new BankingApplication1(100);
         app.mainMenu();
     }
 }
+
